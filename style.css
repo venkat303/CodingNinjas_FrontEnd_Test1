@@ -100,7 +100,7 @@ ul {
     justify-content: space-between;
     align-items: inherit;
     align-items: center;
-    overflow:scroll;
+    overflow:hidden;
 }
 #task-list input:checked + label {
     text-decoration: line-through;
